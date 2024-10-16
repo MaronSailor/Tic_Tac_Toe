@@ -1,0 +1,3 @@
+﻿  StaticTicTacToe.cpp
+C:\Users\Maron_Sailor\source\repos\StaticTicTacToe\StaticTicTacToe\StaticTicTacToe.cpp(226,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StaticTicTacToe.vcxproj -> C:\Users\Maron_Sailor\source\repos\StaticTicTacToe\x64\Debug\StaticTicTacToe.exe
